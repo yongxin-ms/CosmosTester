@@ -1,0 +1,12 @@
+{
+	"editor.tabSize": 4,
+	"editor.useTabStops": false,
+	"editor.insertSpaces": true,
+	"editor.detectIndentation": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"prettier.tabWidth": 2,
+	"prettier.useTabs": true,
+	"prettier.printWidth": 100
+}
